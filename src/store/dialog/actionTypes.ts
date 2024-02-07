@@ -1,0 +1,2 @@
+export const SET_MESSAGE_DATA = 'SET_MESSAGE_DATA'
+export const SET_DIALOG_DATA = 'SET_DIALOG_DATA'

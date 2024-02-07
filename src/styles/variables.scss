@@ -1,0 +1,92 @@
+$h1: 32px;
+$h1-lh: 38px;
+
+$h2: 24px;
+$h2-lh: 28px;
+
+$h3: 22px;
+$h2-lh: 28px;
+
+$h4: 20px;
+$h4-lh: 28px;
+
+$body: 16px;
+$body-lh: 24px;
+
+$body-s: 14px;
+$body-s-lh: 22px;
+
+$body-xs: 12px;
+$body-xs-lh: 19px;
+
+$fw-regular: 400;
+$fw-medium: 500;
+$fw-semi-bold: 600;
+
+
+$c-gray-secondary: #434343;
+$c-gray-light: #a3a3a3;
+$c-gray-extra-light: #dcdcdc;
+$c-gray-bg: #f1f1f1;
+
+$c-gray-primary: #262626;
+
+$c-blue-primary: #1890ff;
+$c-blue-dark: #096dd9;
+$c-blue-light: #bae7ff;
+
+$c-red-primary: #cf1322;
+$c-red-secondary: #f5222d;
+
+$c-white-common: #ffffff;
+$c-green-primary: #389e0d;
+$c-green-secondary: #73d13d;
+
+$c-yellow-primary: #fadb14;
+$c-gold-primary: #faad14;
+
+$c-purple-primary: #722ed1;
+$c-purple-secondary: #b37feb;
+
+$c-disabled: rgba(#ffffff, 30%);
+
+// UI indent variables
+$indent-base: 4px;
+
+// UI elements variables
+$user-not-auth-content-width: 410px;
+$header-height: 62px;
+$header-z-index: 3;
+$scrollbar-width: 7px;
+$logo-size-sm: 42px;
+$gradient-table-cut: linear-gradient(90deg, rgba(#ffffff, 0) 0%, rgba(#ffffff, 1) 100%);
+$gradient-table-cut-select: linear-gradient(90deg, rgba(#fafafa, 0) 0%, rgba(#fafafa, 1) 100%);
+$min-content-width: 1000px;
+
+// Antd variables from theme
+
+$descriptions-bg: #fafafa;
+$btn-danger-bg: #ff4d4f;
+$btn-default-color: rgba(#000000, 85%);
+$btn-text-hover-bg: rgba(0, 0, 0, 0.018);
+$alert-error-bg-color: #fff1f0;
+$box-shadow-base: 0px 9px 28px 8px rgba(0, 0, 0, 0.05), 0px 6px 16px rgba(0, 0, 0, 0.08), 0px 3px 6px -4px rgba(0, 0, 0, 0.12);
+$text-color-secondary: rgba(#000000, 45%);
+$input-placeholder-color: rgba(#000000, 25%);
+$link-hover-color: #40a9ff;
+$link-active-color: #096dd9;
+$input-bg: #ffffff;
+$btn-primary-bg: #1890ff;
+$table-row-hover-bg: rgba(#000000, 2%);
+$border-color-base: rgba(#000000, 15%);
+
+$border-height: 1px;
+$border-radius-base: 4px;
+$body-padding: 20px 24px 16px;
+$form-vertical-label-padding: 0 0 4px;
+
+//help widget
+$help-widget-box-shadow: 0px 9px 28px 8px rgba(0, 0, 0, 0.05), 0px 6px 16px rgba(0, 0, 0, 0.08), 0px 3px 6px -4px rgba(0, 0, 0, 0.12);
+$help-widget-box-shadow-dark: 0px 3px 6px -4px rgba(0, 0, 0, 0.48), 0px 6px 16px rgba(0, 0, 0, 0.32), 0px 9px 28px 8px rgba(0, 0, 0, 0.2);
+
+$sizes: ("xs":320px, "sm":576px, "md":768px, "lg":992px, "xl":1200px);

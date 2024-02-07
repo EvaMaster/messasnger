@@ -1,0 +1,69 @@
+html {
+  font-size: 16px;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: #1890ff;
+}
+a:hover {
+  color: #096dd9;
+}
+
+button {
+  background: #1890ff;
+  color: #ffffff;
+  padding: 8px 16px 8px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: all 0.3s;
+}
+button:hover {
+  background: #096dd9;
+}
+button:disabled {
+  background: #a3a3a3;
+  cursor: default;
+}
+
+input, textarea {
+  padding: 8px 32px 8px 12px;
+  border-radius: 4px;
+  width: 100%;
+  border: 2px solid #a3a3a3;
+  resize: none;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ol,
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+*:focus {
+  outline: none;
+}
+
+/*# sourceMappingURL=index.css.map */
